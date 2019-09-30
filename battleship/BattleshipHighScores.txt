@@ -1,0 +1,8 @@
+ HIGH SCORES 
+-----------
+Player 1
+Guesses: 53
+-----------
+Player 2
+Guesses: 65
+-----------
