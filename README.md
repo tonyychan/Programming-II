@@ -13,16 +13,13 @@ Constructed the project using objected-oriented programming and inheritance prin
 To compile: 
 
 javac control/*.java
-
 javac logic/*.java
-
 javac gui/*.java
 
 
 To run:
 
 java control/Controller
-
 java control/GamePlay
 
 
@@ -36,9 +33,6 @@ javac -cp .:junit-4.12.jar:hamcrest-core-1.3.jar tests/*.java
 To run:
 
 java -cp .:junit-4.12.jar:hamcrest-core-1.3.jar org.junit.runner.JUnitCore tests.ComputerTest
-
 java -cp .:junit-4.12.jar:hamcrest-core-1.3.jar org.junit.runner.JUnitCore tests.ShipTest
-
 java -cp .:junit-4.12.jar:hamcrest-core-1.3.jar org.junit.runner.JUnitCore tests.HumanTest
-
 java -cp .:junit-4.12.jar:hamcrest-core-1.3.jar org.junit.runner.JUnitCore tests.BoardTest
